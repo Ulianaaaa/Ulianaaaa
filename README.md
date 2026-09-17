@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="name.gif" width="55%" />
-</p>
+# ULIANA GORELOVA
 
 ## ABOUT ME
 *   `University:` *ITMO University*
