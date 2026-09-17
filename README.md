@@ -1,29 +1,26 @@
-<p align="center">
-  <img src="https://vercel.app" />
-</p>
+# ULIANA GORELOVA
 
-## Gorelova Uliana Andreevna
-
-*   **𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒:** *ITMO University*
-*   **𝖥𝗈𝖼𝗎𝗌:** *Fullstack / Frontend Development*
-*   **𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌:** *Russian (Native), English (C1), Korean, French*
+## ABOUT ME
+*   `University:` *ITMO University*
+*   `Focus:` *Fullstack / Frontend Development*
+*   `Languages:` *Russian (Native), English (C1), Korean, French*
 
 ---
 
-## Technical Stack
+## TECHNICAL STACK
 
-### Languages & Web
+### LANGUAGES & WEB
 ` Java ` &nbsp; ` Python ` &nbsp; ` JavaScript ` &nbsp; ` HTML5 ` &nbsp; ` CSS3 `
 
-### Frameworks & Databases
+### FRAMEWORKS & DATABASES
 ` Angular ` &nbsp; ` Vue.js ` &nbsp; ` SQL `
 
-### Design & Tools
+### DESIGN & TOOLS
 ` Figma ` &nbsp; ` Git `
 
 ---
 
-## 𝖢𝖮𝖭𝖳𝖠𝖢𝖳𝖲
+## CONTACTS
 
-*   **𝖤𝗆𝖺𝗂𝗅:** `gorelovauliana@gmail.com`
-*   **𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆:** [@ullianasm](https://t.me/ullianasm)
+*   `Email:` `gorelovauliana@gmail.com`
+*   `Telegram:` [@ullianasm](https://t.me/ullianasm)
