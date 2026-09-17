@@ -1,8 +1,10 @@
-# ULIANA GORELOVA
+<p align="center">
+  <img src="https://vercel.app" />
+</p>
 
 ## ABOUT ME
 *   `University:` *ITMO University*
-*   `Focus:` *Fullstack / Frontend Development*
+*   **`Focus:`** *Fullstack / Frontend Development*
 *   `Languages:` *Russian (Native), English (C1), Korean, French*
 
 ---
