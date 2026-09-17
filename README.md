@@ -12,21 +12,14 @@
 
 ## 𝖳𝖤𝖢𝖧𝖭𝖨𝖢𝖠𝖫 𝖲𝖳𝖠𝖢𝖪
 
-### 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 & 𝖶𝖾𝖻
-![Java](https://shields.io)
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+### Languages & Web
+<img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" />
 
-### 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 & 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾𝗌
-![Angular](https://shields.io)
-![Vue.js](https://shields.io)
-![SQL](https://shields.io)
+### Frameworks & Databases
+<img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" />
 
-### 𝖣𝖾𝗌𝗂𝗀𝗇 & 𝖳𝗈𝗈𝗅𝗌
-![Figma](https://shields.io)
-![Git](https://shields.io)
+### Design & Tools
+<img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" />
 
 ---
 
