@@ -10,16 +10,16 @@
 
 ---
 
-## 𝖳𝖤𝖢𝖧𝖭𝖨𝖢𝖠𝖫 𝖲𝖳𝖠𝖢𝖪
+## Technical Stack
 
 ### Languages & Web
-<img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" />
+` Java ` &nbsp; ` Python ` &nbsp; ` JavaScript ` &nbsp; ` HTML5 ` &nbsp; ` CSS3 `
 
 ### Frameworks & Databases
-<img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" />
+` Angular ` &nbsp; ` Vue.js ` &nbsp; ` SQL `
 
 ### Design & Tools
-<img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" />
+` Figma ` &nbsp; ` Git `
 
 ---
 
