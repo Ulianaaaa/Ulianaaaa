@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vercel.app" />
+  <img src="name.gif" width="55%" />
 </p>
 
 ## ABOUT ME
