@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img_name.gif" width="55%" />
+  <img src="name.gif" width="55%" />
 </p>
 
 ## ABOUT ME
